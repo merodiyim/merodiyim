@@ -1,2 +1,6 @@
-## Hi there 👋
-![stats](https://chlorophyll.chwrryon.top/stats/aurieruim?bg=light&frame=catface&decor=ribbon&tfont=slopness&cfont=slopness&dcolor=rgb(200,200,200)&fcolor=black&tcolor=gray&vcolor=black&lcolor=gray&icolor=green)
+## Meloetta
+
+### Projeler
+Linux for Xiaomi Redmi Note 8
+
+### Rehberler
